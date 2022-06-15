@@ -11,4 +11,5 @@ Currently the app always pops up with the error "HyperSwitch Expired!" Dialog bo
 
 ```
 sudo mv HyperSwitch /Applications/HyperSwitch.app/Contents/MacOS/
+sudo chmod 755 /Applications/HyperSwitch.app/Contents/MacOS/HyperSwitch
 ```
