@@ -13,3 +13,7 @@ Currently the app always pops up with the error "HyperSwitch Expired!" Dialog bo
 sudo mv HyperSwitch /Applications/HyperSwitch.app/Contents/MacOS/
 sudo chmod 755 /Applications/HyperSwitch.app/Contents/MacOS/HyperSwitch
 ```
+Or download repackaged [dmg](https://github.com/qzz0518/remove-HyperSwitch-expired-dialog/releases/tag/v1.0) and reinstall the app
+
+## Others
+You can also try [alt-tab-macos](https://alt-tab-macos.netlify.app/), as suggested by [@ryankhart](https://github.com/qzz0518/remove-HyperSwitch-expired-dialog/issues/4)
