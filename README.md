@@ -1,5 +1,5 @@
 # ⚠️remove-HyperSwitch-expired-dialog（deprecated）
-The software was updated and fixed on April 49.
+The software was updated and fixed on April 29,2023.
 
 
 [HyperSwitch](https://bahoom.com/hyperswitch) is a free Window Switcher App on macOS. I used it a few years ago and haven't found a perfect replacement yet. But the author stopped updating the software a few years ago.
